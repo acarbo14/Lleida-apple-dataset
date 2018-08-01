@@ -1,1 +1,0 @@
-for file in *.JPG; do convert $file -rotate 270 rotated-$file; done
